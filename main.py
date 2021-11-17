@@ -63,9 +63,9 @@ Variables
 
 # Telegram API credentials
 sfile = 'session_file'
-api_id = '8594464'
-api_hash = '8916a0f7bd7fed480f4ca75161083167'
-phone = '+573044737035'
+api_id = ''
+api_hash = ''
+phone = ''
 counter = {}
 
 # event loop
