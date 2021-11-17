@@ -1,0 +1,4 @@
+# Ignore Cache
+__pycache__/
+.ipynb_checkpoints/
+.vscode/
